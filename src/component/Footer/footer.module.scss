@@ -1,0 +1,36 @@
+$mian-color:#2C3E50;
+$Secound-color:#fff;
+footer{
+    background-color: $mian-color;
+    color: $Secound-color;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+    margin: 0;
+}
+
+
+.mainText{
+    text-transform: capitalize;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.lastFooter{
+    background-color: #1a252f;
+    padding: 10px 0;
+    color: $Secound-color;
+}
+
+
+
+.icon{
+    border: 1px white solid;
+    border-radius: 50%;
+    padding: 15px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}

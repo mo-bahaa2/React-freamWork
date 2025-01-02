@@ -1,0 +1,29 @@
+$main-color:rgb(44, 62, 80);
+$btn-color:#1abc9c;
+.myColor{
+    color: $main-color;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: $main-color;
+}
+
+.width{
+    width: 100%;
+}
+
+.form-control:focus{
+    box-shadow:none;
+}
+
+.btn{
+    background-color: $btn-color;
+    border :none
+}
+
+.btn:hover{
+    background-color: $btn-color;
+    color: white;
+}

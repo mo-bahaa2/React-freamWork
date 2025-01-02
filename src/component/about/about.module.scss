@@ -1,0 +1,14 @@
+$image:250px;
+$baground:#1abc9c;
+
+
+.baground{
+    background-color: $baground;
+    min-height: 85vh;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}

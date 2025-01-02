@@ -1,0 +1,41 @@
+$font-color:#2c3e50;
+$nav-font:white;
+$font-captial:uppercase;
+$font-weight:700;
+$main-color:#1abc9c;
+
+.bg-body-tertiary{
+    background-color: $font-color;
+}
+
+.logo{
+    color: $nav-font;
+    font-size:2rem;
+    font-weight:$font-weight ;
+    text-transform: $font-captial;
+}
+
+.navbar-brand{
+    text-decoration: none;
+}
+
+.navbar-brand:hover{
+    color : white;
+    text-decoration: none;
+}
+
+
+.navbar-nav .nav-link{
+    color : $nav-font;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link.active{
+    background-color: #1abc9c;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }

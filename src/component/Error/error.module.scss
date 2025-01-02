@@ -1,0 +1,32 @@
+$text:center;
+$view:60vh;
+h1{
+    font-size:80px;
+    font-weight:800;
+    text-align:$text;
+    
+  }
+  h2{
+    font-size:25px;
+    text-align:$text;
+    margin-top:-20px;
+    padding: 20px 0;
+  }
+  p{
+    text-align:$text;
+    font-size:12px;
+  }
+  .container
+  {
+    width:300px;
+    margin:0 auto;
+    margin-top: 15%;
+  }
+
+  .minVh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: $view;
+  }

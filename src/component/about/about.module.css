@@ -1,0 +1,10 @@
+.baground {
+  background-color: #1abc9c;
+  min-height: 85vh;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: white;
+}/*# sourceMappingURL=about.module.css.map */

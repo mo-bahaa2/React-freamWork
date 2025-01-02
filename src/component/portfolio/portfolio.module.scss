@@ -1,0 +1,36 @@
+$main-color:rgb(44, 62, 80);
+$btn-color:#1abc9c;
+.myColor{
+    color: $main-color;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: $main-color;
+}
+
+.width{
+    width: 100%;
+}
+
+.img{
+    cursor: pointer;
+
+}
+
+.layer{
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+
+.layer:hover{
+    opacity: 1;
+}
+
+
+.mainImage{
+    width: 600px;
+}
