@@ -16,7 +16,7 @@ export default function Start() {
         {/* make the items in center */}
           <div className="text-center pt-4 text-white">
             {/* titel */}
-            <h2 className='text-uppercase mb-3 fs-1 fw-bolder'>start Framework</h2>
+            <h2 className='text-uppercase mb-3 fs-1 fw-bolder'>i'm moahmed bahaa</h2>
             {/* the shape */}
           <div className='d-flex align-items-center justify-content-center mb-3'>
             <div className={`${start.line} me-3`}></div>
@@ -24,7 +24,7 @@ export default function Start() {
             <div className={`${start.line} ms-3`}></div>
           </div>
 
-          <div>Graphic Artist - Web Designer - Illustrator</div>
+          <div>Graphic Artist - Web Developer - ui/ux Developer</div>
           </div>
             
           

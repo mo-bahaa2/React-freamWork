@@ -11,7 +11,7 @@ useEffect(()=>{
           
           <div className="text-center pt-4 text-white">
                       {/* main titel */}
-                      <h2 className='text-uppercase mb-3 fs-1 fw-bolder'>about component</h2>
+                      <h2 className='text-uppercase mb-3 fs-1 fw-bolder'>about me </h2>
                       
                       <div className='d-flex align-items-center justify-content-center mb-3'>
                         <div className={`${about.line} me-3`}></div>
